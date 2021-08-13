@@ -16,5 +16,5 @@ npm run build
 ```
 
 #Demo : 
-threejs-f9c29.firebaseapp.com
+https://threejs-f9c29.firebaseapp.com/
 
